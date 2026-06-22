@@ -28,7 +28,7 @@ Profiline gelenlerin hangi teknolojileri bildiğini tek bakışta görmesi için
 ### ⚙️ Frameworks & Mimariler
 ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-blue?style=for-the-badge&logo=architectural-pattern)
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ### 🗄️ Veri Tabanı
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
