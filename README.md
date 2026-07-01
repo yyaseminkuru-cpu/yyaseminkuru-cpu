@@ -16,7 +16,7 @@ Yazılım dünyasında kendimi geliştiren, sürekli öğrenmeye ve üretmeye od
 
 ## 🛠️ Teknolojiler & Araçlar
 
-Profiline gelenlerin hangi teknolojileri bildiğini tek bakışta görmesi için şık rozetler:
+
 
 ### 💻 Programlama Dilleri
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
